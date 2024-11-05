@@ -1,16 +1,18 @@
-## Hi there 👋
+## About me
 
-<!--
-**HectorLHP/HectorLHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hector!
 
-Here are some ideas to get you started:
+I'm a junior full-stack developer with a passion for game development using JavaScript. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- Vue.js
+- HTML/CSS
+
+## Projects
+- [Random Ideas Project](link_to_your_project)
+- [Diablo 2 Item Value Calculator](link_to_your_project)
+
+## Contact
+- Email: [your_email@example.com](mailto:your_email@example.com)
+- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
